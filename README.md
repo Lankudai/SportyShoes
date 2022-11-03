@@ -43,3 +43,6 @@
 
  Also for admin authentication spring-security-starter has been used with credentials saved in application.properties file.
  
+ # Screenshot -(OUTPUT);
+ 
+ 
