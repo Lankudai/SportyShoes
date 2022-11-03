@@ -36,3 +36,7 @@
   * H2	---
   * JPA	---
   8 Spring Security Starter	---
+  
+  # Flowchat of the Application:
+  ![image](https://user-images.githubusercontent.com/110302992/199765078-f81158e3-8658-4d02-9be1-5d670910c629.png)
+
