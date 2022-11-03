@@ -44,5 +44,8 @@
  Also for admin authentication spring-security-starter has been used with credentials saved in application.properties file.
  
  # Screenshot -(OUTPUT);
- 
+ "C:\Users\Lankudai\OneDrive\Desktop\project 3\screen shot\Screenshot 1.png"
+"C:\Users\Lankudai\OneDrive\Desktop\project 3\screen shot\Screenshot 2.png"
+"C:\Users\Lankudai\OneDrive\Desktop\project 3\screen shot\screenshot 3.png"
+"C:\Users\Lankudai\OneDrive\Desktop\project 3\screen shot\screenshot 4.png"
  
